@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/send_email"
+        android:enabled="true"
+        android:title="send email!"/>
+    <item
+        android:id="@+id/send_text"
+        android:enabled="true"
+        android:title="send text!"/>
+</menu>
